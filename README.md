@@ -28,7 +28,7 @@ An end-to-end data analytics project covering:
 - **Multi-label complaint classification** with 99.2% manual validation accuracy
 - **Statistical testing** — Kruskal-Wallis, Mann-Whitney U, Spearman correlation
 - **Interactive dashboard** built with Streamlit and Plotly in OLA's brand colors
-- **Deployed interactive 6-page Streamlit dashboard with OLA brand 
+- **Deployed interactive** 6-page Streamlit dashboard with OLA brand 
   theme on Streamlit Cloud — live at [https://ola-electric-voc-analysis-km3otwgf7fvgvgve553bjy.streamlit.app/]
 
 ---

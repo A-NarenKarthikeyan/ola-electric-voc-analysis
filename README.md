@@ -213,7 +213,7 @@ Integrated MTech — Computer Science (Data Science)
 VIT Vellore | Expected 2028
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/narenkarthikeyana/)
-[![GitHub](https://img.shields.io/badge/GitHub-coderfox--cap-black?style=flat-square&logo=github)](https://github.com/coderfox-cap)
+[![GitHub](https://img.shields.io/badge/GitHub-coderfox--cap-black?style=flat-square&logo=github)](https://github.com/A-NarenKarthikeyan)
 
 ---
 

@@ -1,0 +1,38 @@
+
+INTERVIEW VERBAL SUMMARY — OLA Electric VoC Analysis
+=====================================================
+
+OPENING (30 seconds):
+"I scraped 7,119 Google Play Store reviews for OLA Electric
+spanning four years, applied VADER sentiment analysis and a
+validated multi-label keyword classifier to categorize complaints
+across 10 business areas, and used statistical testing to confirm
+which findings are significant versus coincidental."
+
+THE THREE KEY FINDINGS (60 seconds):
+"Three things stood out.
+
+First — Software/App complaints dominate at 50.5% of all reviews,
+but they're actually the least severe complaint by average rating.
+The app is broken for a lot of people, but it's fixable.
+
+Second — Customer Care is the real crisis. 93.9% of reviews
+mentioning customer care are 1-star. When customers can't get help,
+the relationship ends permanently. Kruskal-Wallis confirmed that
+sentiment differs significantly across categories at p<0.001.
+
+Third — OLA Electric has never responded to a single Play Store
+review in four years. Across 7,119 reviews. That's not an oversight
+— it's a systematic disengagement from their most public feedback
+channel."
+
+THE RECOMMENDATION (20 seconds):
+"My top recommendation isn't to fix the most complained-about thing.
+It's to fix the most damaging thing — customer care — while
+simultaneously patching the app, which is a quick win at high volume.
+Those two interventions together address the highest severity and
+highest frequency failures simultaneously."
+
+CLOSING (10 seconds):
+"The same pipeline I built can monitor these metrics monthly going
+forward. The project isn't just an analysis — it's a monitoring tool."

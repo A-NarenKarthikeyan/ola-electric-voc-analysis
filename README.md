@@ -3,7 +3,7 @@
 > *Diagnosing a market share collapse through 7,119 customer reviews, NLP sentiment analysis, and multi-label complaint classification.*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit)](https://ola-electric-voc-analysis-km3otwgf7fvgvgve553bjy.streamlit.app/)
 ![VADER](https://img.shields.io/badge/NLP-VADER_Sentiment-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 

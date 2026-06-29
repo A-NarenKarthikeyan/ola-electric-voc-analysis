@@ -300,7 +300,7 @@ st.markdown(f"""
 # =============================================================================
 @st.cache_data
 def load_data():
-    df = pd.read_csv('../data/classified/ola_reviews_classified.csv')
+    df = pd.read_csv('data/classified/ola_reviews_classified.csv')
     df['at'] = pd.to_datetime(df['at'])
     df['year_month'] = pd.to_datetime(df['year_month'])
     for col in CAT_COLS:
@@ -310,7 +310,7 @@ def load_data():
 
 @st.cache_data
 def load_monthly():
-    monthly = pd.read_csv('../data/cleaned/ola_monthly_trends.csv')
+    monthly = pd.read_csv('data/cleaned/ola_monthly_trends.csv')
     monthly['year_month'] = pd.to_datetime(monthly['year_month'])
     return monthly
 
